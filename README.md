@@ -1,0 +1,2 @@
+# gashaponMachine
+合约
