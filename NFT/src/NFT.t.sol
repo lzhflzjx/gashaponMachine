@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 // // SPDX-License-Identifier: UNLICENSED
 // pragma solidity 0.8.27;
 // import "../lib/forge-std/src/Test.sol";
 // import "../src/NFT.sol";
-=======
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity 0.8.27;
-import "../lib/forge-std/src/Test.sol";
-import "../src/NFT.sol";
->>>>>>> 5a2a358 (route change)
 
 
 // contract NFTTest is Test {
