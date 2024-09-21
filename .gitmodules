@@ -6,4 +6,4 @@
 	url = https://github.com/transmissions11/solmate
 [submodule "NFT/lib/openzeppelin-contracts"]
 	path = NFT/lib/openzeppelin-contracts
-	url = https://github.com/Openzeppelin/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
