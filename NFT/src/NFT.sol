@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity 0.8.27;
 
-import "solmate/tokens/ERC721.sol";
-import "openzeppelin-contracts/contracts/utils/Strings.sol";
+import {ERC721} from "../lib/solmate/src/tokens/ERC721.sol";
+import {Strings} from "../lib/openzeppelin-contracts/contracts/utils/Strings.sol";
 
 contract NFT is ERC721 {
     uint256 public currentTokenId;
